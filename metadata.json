@@ -1,0 +1,5 @@
+{
+  "name": "Age Calculator",
+  "description": "A modern, responsive age calculator with custom date picker and detailed time breakdowns.",
+  "requestFramePermissions": []
+}
